@@ -12,6 +12,8 @@ The goal is simple:
 
 ---
 
+---
+
 ### 🎯 Purpose 🎯
 
 Consistency is one of the most powerful habits in software development. 💡
@@ -27,6 +29,8 @@ Even small commits count — bug fixes, documentation updates, UI tweaks, learni
 
 ---
 
+---
+
 ### 📌 What You’ll Find Here 🗂️
 
 This repo may include daily updates such as:
@@ -39,6 +43,8 @@ This repo may include daily updates such as:
 - ⚙️ Project refactoring
 
 The focus is **progress over perfection.** 💯
+
+---
 
 ---
 
@@ -73,6 +79,8 @@ Depending on the day, commits may include work using:
 
 I aim to commit **every day** — whether it’s big or small.
 This repository represents **dedication, discipline, and continuous learning.** 🏆📚
+
+---
 
 ---
 
