@@ -79,5 +79,3 @@ This repository represents **dedication, discipline, and continuous learning.** 
 ---
 
 ---
-
-If you want, I can add **badges + contribution graph + GitHub stats section** next 😄
