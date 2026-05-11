@@ -1,5 +1,3 @@
-Here’s your README updated with **more emojis** but still clean and professional 👇
-
 ---
 
 ## 📅 Daily_Git 🚀
