@@ -1,5 +1,3 @@
----
-
 ## 📅 Daily_Git 🚀
 
 **Daily_Git** is a personal consistency challenge where I commit code every single day to build discipline, improve version control skills, and document my development journey. 💻📈
