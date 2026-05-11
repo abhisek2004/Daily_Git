@@ -1,7 +1,3 @@
-Here’s your README updated with **more emojis** but still clean and professional 👇
-
----
-
 ## 📅 Daily_Git 🚀
 
 **Daily_Git** is a personal consistency challenge where I commit code every single day to build discipline, improve version control skills, and document my development journey. 💻📈
@@ -83,5 +79,3 @@ This repository represents **dedication, discipline, and continuous learning.** 
 ---
 
 ---
-
-If you want, I can add **badges + contribution graph + GitHub stats section** next 😄
